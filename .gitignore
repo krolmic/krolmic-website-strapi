@@ -115,3 +115,5 @@ build
 # Even if it is usually recommended to version this file,
 # it may create issues on Heroku.
 package-lock.json
+# npm is used as package manager
+yarn.lock
